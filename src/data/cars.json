@@ -1,0 +1,238 @@
+{
+    "cars": [
+        {
+            "id": "1",
+            "name": "Yaris",
+            "manufacture": "Toyota",
+            "type": "City Car",
+            "year": "2019",
+            "price": 150000,
+            "image": "/yaris.png"
+        },
+        {
+            "id": "2",
+            "name": "Agya",
+            "manufacture": "Toyota",
+            "type": "City Car",
+            "year": "2018",
+            "price": 145000,
+            "image": "/agya.png"
+        },
+        {
+            "id": "3",
+            "name": "CRV",
+            "manufacture": "Honda",
+            "type": "SUV",
+            "year": "2015",
+            "price": 230000,
+            "image": "/crv.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Fortuner VRZ",
+            "manufacture": "Toyota",
+            "type": "SUV",
+            "year": "2018",
+            "price": 250000,
+            "image": "/fortuner.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Avanza",
+            "manufacture": "Toyota",
+            "type": "Minibus",
+            "year": "2017",
+            "price": 180000,
+            "image": "/avanza.png"
+        },
+        {
+            "id": "6",
+            "name": "Innova",
+            "manufacture": "Toyota",
+            "type": "Minibus",
+            "year": "2017",
+            "price": 190000,
+            "image": "/innova.png"
+        },
+        {
+            "id": "7",
+            "name": "Innova Reborn",
+            "manufacture": "Toyota",
+            "type": "Minibus",
+            "year": "2020",
+            "price": 200000,
+            "image": "/innova-reborn.png"
+        },
+        {
+            "id": "8",
+            "name": "Camry",
+            "manufacture": "Toyota",
+            "type": "Premium Car",
+            "year": "2015",
+            "price": 300000,
+            "image": "/camry.png"
+        },
+        {
+            "id": "9",
+            "name": "Alphard",
+            "manufacture": "Toyota",
+            "type": "Premium Car",
+            "year": "2018",
+            "price": 300000,
+            "image": "/alphard.jpg"
+        },
+        {
+            "id": "10",
+            "name": "528i",
+            "manufacture": "BMW",
+            "type": "Premium Car",
+            "year": "2016",
+            "price": 320000,
+            "image": "/bmw-528i.jpg"
+        },
+        {
+            "id": "11",
+            "name": "S400",
+            "manufacture": "Mercedes-Benz",
+            "type": "Premium Car",
+            "year": "2019",
+            "price": 320000,
+            "image": "/mercy-s400.png"
+        },
+        {
+            "id": "12",
+            "name": "RX350",
+            "manufacture": "Lexus",
+            "type": "Premium Car",
+            "year": "2017",
+            "price": 300000,
+            "image": "/lexus-rx350.jpg"
+        },
+        {
+            "id": "13",
+            "name": "Strada Triton",
+            "manufacture": "Mitsubishi",
+            "type": "Double Cabin",
+            "year": "2015",
+            "price": 280000,
+            "image": "/triton-strada.jpg"
+        },
+        {
+            "id": "14",
+            "name": "Hilux",
+            "manufacture": "Toyota",
+            "type": "Double Cabin",
+            "year": "2018",
+            "price": 280000,
+            "image": "/hilux.png"
+        },
+        {
+            "id": "15",
+            "name": "H1",
+            "manufacture": "Hyundai",
+            "type": "Big Capacity",
+            "year": "2017",
+            "price": 300000,
+            "image": "/Hyundai-h1.jpg"
+        },
+        {
+            "id": "16",
+            "name": "Hiace",
+            "manufacture": "Toyota",
+            "type": "Big Capacity",
+            "year": "2016",
+            "price": 300000,
+            "image": "/hiace.png"
+        },
+        {
+            "id": "17",
+            "name": "Elf",
+            "manufacture": "Isuzu",
+            "type": "Big Capacity",
+            "year": "2016",
+            "price": 300000,
+            "image": "/isuzu-elf.jpg"
+        },
+        {
+            "id": "18",
+            "name": "BRV",
+            "manufacture": "Honda",
+            "type": "Minibus",
+            "year": "2018",
+            "price": 200000,
+            "image": "/brv.jpg"
+        },
+        {
+            "id": "19",
+            "name": "Ertiga",
+            "manufacture": "Suzuki",
+            "type": "Minibus",
+            "year": "2018",
+            "price": 200000,
+            "image": "/ertiga.png"
+        },
+        {
+            "id": "20",
+            "name": "Expander",
+            "manufacture": "Mitsubishi",
+            "type": "Minibus",
+            "year": "2018",
+            "price": 210000,
+            "image": "/expander.jpg"
+        },
+        {
+            "id": "21",
+            "name": "HRV",
+            "manufacture": "Honda",
+            "type": "SUV",
+            "year": "2017",
+            "price": 230000,
+            "image": "/hrv.png"
+        },
+        {
+            "id": "22",
+            "name": "Jimny",
+            "manufacture": "Suzuki",
+            "type": "SUV",
+            "year": "2020",
+            "price": 230000,
+            "image": "/jimny.png"
+        },
+        {
+            "id": "23",
+            "name": "Rush",
+            "manufacture": "Toyota",
+            "type": "SUV",
+            "year": "2017",
+            "price": 230000,
+            "image": "/rush.png"
+        },
+        {
+            "id": "24",
+            "name": "Pajero",
+            "manufacture": "Mitsubishi",
+            "type": "SUV",
+            "year": "2018",
+            "price": 250000,
+            "image": "/pajero-sport.png"
+        },
+        {
+            "id": "25",
+            "name": "Ionic 5",
+            "manufacture": "Hyundai",
+            "type": "Electric Car",
+            "year": "2021",
+            "price": 220000,
+            "image": "/ioniq-5.png"
+        },
+        {
+            "id": "26",
+            "name": "Air EV",
+            "manufacture": "Wuling",
+            "type": "Electric Car",
+            "year": "2022",
+            "price": 200000,
+            "image": "/air-ev.jpeg"
+        }
+    ]
+}
