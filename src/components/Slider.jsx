@@ -18,7 +18,7 @@ const Slider = ({homeRef})=> {
     const car5 = findCar("crv")
     
     return(
-        <div className="pt-20 -z-50" ref={homeRef}>
+        <div className="pt-20 -z-50 w-full" ref={homeRef}>
             <Swiper
                 modules={[Navigation, Pagination, Scrollbar, A11y]}
                 spaceBetween={50}

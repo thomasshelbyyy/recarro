@@ -18,7 +18,7 @@ const App = ()=> {
   }
 
   return(
-    <div style={{ fontFamily: "'Poppins', sans-serif" }}>
+    <div style={{ fontFamily: "'Poppins', sans-serif" }} className="w-screen">
       <Header scrollToSection={scrollToSection} homeRef={homeRef} aboutRef={aboutRef} registrationRef={registrationRef} contactRef={contactRef} />
       
       <Slider homeRef={homeRef} />

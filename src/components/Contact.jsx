@@ -23,11 +23,11 @@ const Contact = ({contactRef})=> {
         }
     }
     return (
-        <div className="w-screen bg-red-500 py-10" ref={contactRef}>
+        <div className="w-screen bg-red-500 py-10 px-5" ref={contactRef}>
             <div className="flex flex-col md:flex-row justify-center items-center md:gap-20 mb-8">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1972.5430348818993!2d116.07604735320699!3d-8.587723296277973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcdbf591a7f5ec7%3A0x830b122bdd101dc5!2sKota%20Mataram%2C%20Nusa%20Tenggara%20Bar.!5e0!3m2!1sid!2sid!4v1678075951869!5m2!1sid!2sid" allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade" className="md:w-4/12 w-2/4 h-72 mb-4"></iframe>
 
-                <div>
+                <div className="w-full">
                     <h1 className="text-3xl mb-4">Mail us</h1>
                     <div className="flex flex-col mb-3">
                         <label htmlFor="email" className="text-lg">Email</label>
